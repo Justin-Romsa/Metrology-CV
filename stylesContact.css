@@ -1,0 +1,47 @@
+body {
+  text-align: center;
+  font-family: "Lucida Console", courier, monospace;
+  width: 99%;
+  height: auto;
+  margin-top: 33px;
+}
+
+.whatsapp {
+  margin-bottom: 27px
+}
+
+hr {
+  border: none;
+  border-bottom: 6px dotted;
+  width: 5%;
+}
+
+.yN  {
+  margin-top: 27px;
+  margin-bottom: 9px;
+}
+
+.yourName {
+  margin-right: 8px;
+}
+
+.yourNameInput {
+  margin-left: 2px;
+}
+
+.yE {
+  margin-bottom: 9px;
+}
+
+.yourMessageInput {
+  margin-bottom: 9px;
+  margin-top: 5px;
+}
+
+.submit {
+  margin-right: 3px
+}
+
+.reset {
+  margin-right: 3px;
+}

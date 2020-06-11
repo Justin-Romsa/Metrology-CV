@@ -1,0 +1,31 @@
+body {
+  font-family: "Lucida Console", courier, monospace;
+  font-size: .90rem;
+  margin-left: 20px;
+}
+
+h2 {
+  margin-top: 10px;
+  padding-bottom: 30px;
+}
+
+.address {
+  margin-top: 0;
+}
+
+.starOne {
+  display: block;
+  padding-left: 63px;
+  padding-right: 20px;
+}
+
+.starTwo {
+  padding-left: 123px;
+}
+
+@media (max-width: 1028px) {
+
+#title {
+    text-align: center;
+  }
+}
